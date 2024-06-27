@@ -1,0 +1,319 @@
+ID,Nombre,Email,Lider,Fecha desde,Fecha hasta,Tipo,Motivo,Estado
+28,Wendy Williams,wendy.williams@nalademo.com,Mark Lopez,20/01/2022,02/02/2022,Incapacidad,,Rechazado
+34,Catherine Zeta,catherine.zeta@nalademo.com,Mark Lopez,23/01/2022,29/01/2022,Vacaciones,Vacaciones en familia,Aprobado
+16,Katherine Heigl,katherine.heigl@nalademo.com,Lucía Sánchez,24/01/2022,02/02/2022,Incapacidad,,Aprobado
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,28/01/2022,30/01/2022,Incapacidad,,Rechazado
+7,Mark Lopez,m.lopez@nalademo.com,CEO,28/01/2022,09/02/2022,Vacaciones,Cuidado de un familiar,Rechazado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,30/01/2022,05/02/2022,Vacaciones,Cuidado de un familiar,Rechazado
+7,Mark Lopez,m.lopez@nalademo.com,CEO,30/01/2022,08/02/2022,Vacaciones,,Aprobado
+26,Uma Thurman,uma.thurman@nalademo.com,Diana Prado,01/02/2022,12/02/2022,Vacaciones,Cuidado de un familiar,Aprobado
+22,Quentin Tarantino,quentin.tarantino@nalademo.com,Diana Prado,01/02/2022,10/02/2022,Incapacidad,,Aprobado
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,03/02/2022,14/02/2022,Incapacidad,,Aprobado
+8,Charlie Brown,charlie.brown@nalademo.com,Bruno Díaz,06/02/2022,14/02/2022,Vacaciones,,Aprobado
+6,Alice Johnson,alice.johnson@nalademo.com,Diana Prado,07/02/2022,10/02/2022,Incapacidad,,Rechazado
+8,Charlie Brown,charlie.brown@nalademo.com,Bruno Díaz,07/02/2022,11/02/2022,Incapacidad,,Aprobado
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,09/02/2022,22/02/2022,Vacaciones,,Aprobado
+20,Oscar Isaac,oscar.isaac@nalademo.com,Mark Lopez,10/02/2022,11/02/2022,Incapacidad,,Aprobado
+12,George Clooney,george.clooney@nalademo.com,Mark Lopez,13/02/2022,27/02/2022,Incapacidad,,Rechazado
+11,Fiona Apple,fiona.apple@nalademo.com,Diana Prado,27/02/2022,06/03/2022,Incapacidad,Cuidado de un familiar,Rechazado
+15,Jack Black,jack.black@nalademo.com,Diana Prado,28/02/2022,02/03/2022,Vacaciones,,Aprobado
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,01/03/2022,04/03/2022,Incapacidad,,Aprobado
+31,Bruno Díaz,nosehabla@nalademo.com,CEO,01/03/2022,02/03/2022,Incapacidad,,Aprobado
+8,Charlie Brown,charlie.brown@nalademo.com,Bruno Díaz,01/03/2022,11/03/2022,Vacaciones,Mudanza,Aprobado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,06/03/2022,17/03/2022,Vacaciones,,Rechazado
+22,Quentin Tarantino,quentin.tarantino@nalademo.com,Diana Prado,11/03/2022,23/03/2022,Incapacidad,,Aprobado
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,16/03/2022,18/03/2022,Incapacidad,,Aprobado
+15,Jack Black,jack.black@nalademo.com,Diana Prado,18/03/2022,22/03/2022,Incapacidad,,Aprobado
+14,Ian McKellen,ian.mckellen@nalademo.com,Mark Lopez,21/03/2022,01/04/2022,Vacaciones,,Aprobado
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,26/03/2022,30/03/2022,Vacaciones,,Aprobado
+27,Victor Hugo,victor.hugo@nalademo.com,Lucía Sánchez,01/04/2022,08/04/2022,Vacaciones,,Rechazado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,02/04/2022,09/04/2022,Vacaciones,Problemas personales,Aprobado
+22,Quentin Tarantino,quentin.tarantino@nalademo.com,Diana Prado,02/04/2022,08/04/2022,Vacaciones,Iré al doctor,Aprobado
+19,Diana Prado,dianita@nalademo.com,CEO,02/04/2022,16/04/2022,Vacaciones,Viaje de estudios,Aprobado
+32,Amber Heard,amber.heard@nalademo.com,Bruno Díaz,03/04/2022,08/04/2022,Incapacidad,,Aprobado
+34,Catherine Zeta,catherine.zeta@nalademo.com,Mark Lopez,04/04/2022,16/04/2022,Vacaciones,Cuidado de un familiar,Rechazado
+26,Uma Thurman,uma.thurman@nalademo.com,Diana Prado,13/04/2022,16/04/2022,Vacaciones,,Aprobado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,20/04/2022,27/04/2022,Vacaciones,Viaje de estudios,Rechazado
+18,Maggie Smith,maggie.smith@nalademo.com,Mark Lopez,21/04/2022,25/04/2022,Incapacidad,,Rechazado
+9,Diana Prince,diana.prince@nalademo.com,Lucía Sánchez,21/04/2022,26/04/2022,Vacaciones,,Aprobado
+7,Mark Lopez,m.lopez@nalademo.com,CEO,24/04/2022,28/04/2022,Incapacidad,,Rechazado
+28,Wendy Williams,wendy.williams@nalademo.com,Mark Lopez,25/04/2022,29/04/2022,Vacaciones,,Rechazado
+7,Mark Lopez,m.lopez@nalademo.com,CEO,25/04/2022,02/05/2022,Vacaciones,,Aprobado
+31,Bruno Díaz,nosehabla@nalademo.com,CEO,05/05/2022,06/05/2022,Vacaciones,,Aprobado
+11,Fiona Apple,fiona.apple@nalademo.com,Diana Prado,09/05/2022,12/05/2022,Incapacidad,,Aprobado
+16,Katherine Heigl,katherine.heigl@nalademo.com,Lucía Sánchez,13/05/2022,17/05/2022,Vacaciones,,Aprobado
+30,Yara Shahidi,yara.shahidi@nalademo.com,Bruno Díaz,13/05/2022,18/05/2022,Incapacidad,,Aprobado
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,14/05/2022,17/05/2022,Vacaciones,,Aprobado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,16/05/2022,30/05/2022,Incapacidad,,Rechazado
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,18/05/2022,01/06/2022,Vacaciones,Problemas personales,Rechazado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,21/05/2022,28/05/2022,Vacaciones,,Rechazado
+32,Amber Heard,amber.heard@nalademo.com,Bruno Díaz,26/05/2022,07/06/2022,Vacaciones,,Aprobado
+1,Gonzalo Dapoz,harveydent@nalademo.com,Mark Lopez,28/05/2022,09/06/2022,Vacaciones,Descanso,Aprobado
+27,Victor Hugo,victor.hugo@nalademo.com,Lucía Sánchez,29/05/2022,03/06/2022,Vacaciones,Descanso,Aprobado
+34,Catherine Zeta,catherine.zeta@nalademo.com,Mark Lopez,01/06/2022,06/06/2022,Incapacidad,Problemas personales,Rechazado
+8,Charlie Brown,charlie.brown@nalademo.com,Bruno Díaz,03/06/2022,15/06/2022,Incapacidad,,Rechazado
+20,Oscar Isaac,oscar.isaac@nalademo.com,Mark Lopez,07/06/2022,12/06/2022,Incapacidad,,Aprobado
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,07/06/2022,14/06/2022,Incapacidad,,Aprobado
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,09/06/2022,20/06/2022,Vacaciones,,Rechazado
+12,George Clooney,george.clooney@nalademo.com,Mark Lopez,11/06/2022,14/06/2022,Vacaciones,Descanso,Aprobado
+20,Oscar Isaac,oscar.isaac@nalademo.com,Mark Lopez,18/06/2022,24/06/2022,Vacaciones,Problemas personales,Aprobado
+4,Susana Becerril,alcaldesamccaskill@nalademo.com,Lucía Sánchez,22/06/2022,03/07/2022,Incapacidad,,Rechazado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,22/06/2022,23/06/2022,Vacaciones,,Rechazado
+27,Victor Hugo,victor.hugo@nalademo.com,Lucía Sánchez,28/06/2022,02/07/2022,Incapacidad,,Aprobado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,01/07/2022,11/07/2022,Incapacidad,,Rechazado
+16,Katherine Heigl,katherine.heigl@nalademo.com,Lucía Sánchez,03/07/2022,08/07/2022,Incapacidad,,Aprobado
+26,Uma Thurman,uma.thurman@nalademo.com,Diana Prado,11/07/2022,18/07/2022,Vacaciones,,Aprobado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,13/07/2022,26/07/2022,Vacaciones,,Rechazado
+32,Amber Heard,amber.heard@nalademo.com,Bruno Díaz,16/07/2022,16/07/2022,Incapacidad,Iré al doctor,Aprobado
+1,Gonzalo Dapoz,harveydent@nalademo.com,Mark Lopez,17/07/2022,18/07/2022,Vacaciones,,Aprobado
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,23/07/2022,01/08/2022,Incapacidad,,Rechazado
+15,Jack Black,jack.black@nalademo.com,Diana Prado,23/07/2022,27/07/2022,Vacaciones,Vacaciones en familia,Aprobado
+4,Susana Becerril,alcaldesamccaskill@nalademo.com,Lucía Sánchez,26/07/2022,07/08/2022,Incapacidad,,Aprobado
+5,Juan Perez,eddiecontracorriente@nalademo.com,Bruno Díaz,27/07/2022,02/08/2022,Incapacidad,,Rechazado
+5,Juan Perez,eddiecontracorriente@nalademo.com,Bruno Díaz,27/07/2022,28/07/2022,Incapacidad,,Rechazado
+26,Uma Thurman,uma.thurman@nalademo.com,Diana Prado,02/08/2022,07/08/2022,Vacaciones,Problemas personales,Rechazado
+5,Juan Perez,eddiecontracorriente@nalademo.com,Bruno Díaz,02/08/2022,14/08/2022,Vacaciones,,Aprobado
+11,Fiona Apple,fiona.apple@nalademo.com,Diana Prado,04/08/2022,09/08/2022,Incapacidad,,Aprobado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,06/08/2022,15/08/2022,Vacaciones,Problemas personales,Aprobado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,08/08/2022,17/08/2022,Vacaciones,,Rechazado
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,09/08/2022,18/08/2022,Incapacidad,,Aprobado
+14,Ian McKellen,ian.mckellen@nalademo.com,Mark Lopez,12/08/2022,17/08/2022,Vacaciones,Descanso,Aprobado
+31,Bruno Díaz,nosehabla@nalademo.com,CEO,14/08/2022,15/08/2022,Vacaciones,Problemas personales,Aprobado
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,18/08/2022,28/08/2022,Incapacidad,Cuidado de un familiar,Rechazado
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,19/08/2022,21/08/2022,Incapacidad,,Aprobado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,22/08/2022,26/08/2022,Vacaciones,Descanso,Rechazado
+23,Rachel McAdams,rachel.mcadams@nalademo.com,Diana Prado,30/08/2022,11/09/2022,Incapacidad,,Aprobado
+1,Gonzalo Dapoz,harveydent@nalademo.com,Mark Lopez,31/08/2022,13/09/2022,Incapacidad,,Aprobado
+9,Diana Prince,diana.prince@nalademo.com,Lucía Sánchez,06/09/2022,20/09/2022,Vacaciones,,Aprobado
+27,Victor Hugo,victor.hugo@nalademo.com,Lucía Sánchez,06/09/2022,17/09/2022,Vacaciones,,Rechazado
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,06/09/2022,17/09/2022,Vacaciones,Descanso,Aprobado
+23,Rachel McAdams,rachel.mcadams@nalademo.com,Diana Prado,07/09/2022,11/09/2022,Vacaciones,,Aprobado
+28,Wendy Williams,wendy.williams@nalademo.com,Mark Lopez,09/09/2022,23/09/2022,Vacaciones,Descanso,Rechazado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,12/09/2022,16/09/2022,Incapacidad,,Aprobado
+1,Gonzalo Dapoz,harveydent@nalademo.com,Mark Lopez,13/09/2022,13/09/2022,Incapacidad,Iré al doctor,Aprobado
+18,Maggie Smith,maggie.smith@nalademo.com,Mark Lopez,23/09/2022,07/10/2022,Vacaciones,Descanso,Aprobado
+17,Lucía Sánchez,l.sanchez@nalademo.com,CEO,24/09/2022,03/10/2022,Vacaciones,,Aprobado
+28,Wendy Williams,wendy.williams@nalademo.com,Mark Lopez,24/09/2022,01/10/2022,Vacaciones,,Aprobado
+1,Gonzalo Dapoz,harveydent@nalademo.com,Mark Lopez,24/09/2022,04/10/2022,Vacaciones,,Rechazado
+14,Ian McKellen,ian.mckellen@nalademo.com,Mark Lopez,25/09/2022,28/09/2022,Incapacidad,Cuidado de un familiar,Aprobado
+6,Alice Johnson,alice.johnson@nalademo.com,Diana Prado,27/09/2022,30/09/2022,Vacaciones,,Aprobado
+11,Fiona Apple,fiona.apple@nalademo.com,Diana Prado,01/10/2022,05/10/2022,Vacaciones,Mudanza,Rechazado
+16,Katherine Heigl,katherine.heigl@nalademo.com,Lucía Sánchez,01/10/2022,12/10/2022,Vacaciones,Problemas personales,Aprobado
+25,Tina Fey,tina.fey@nalademo.com,Lucía Sánchez,04/10/2022,13/10/2022,Incapacidad,,Aprobado
+31,Bruno Díaz,nosehabla@nalademo.com,CEO,14/10/2022,19/10/2022,Incapacidad,,Aprobado
+12,George Clooney,george.clooney@nalademo.com,Mark Lopez,17/10/2022,29/10/2022,Vacaciones,,Aprobado
+30,Yara Shahidi,yara.shahidi@nalademo.com,Bruno Díaz,19/10/2022,01/11/2022,Vacaciones,Iré al doctor,Aprobado
+27,Victor Hugo,victor.hugo@nalademo.com,Lucía Sánchez,19/10/2022,25/10/2022,Vacaciones,Viaje de estudios,Rechazado
+19,Diana Prado,dianita@nalademo.com,CEO,20/10/2022,27/10/2022,Vacaciones,,Aprobado
+17,Lucía Sánchez,l.sanchez@nalademo.com,CEO,24/10/2022,05/11/2022,Vacaciones,,Aprobado
+25,Tina Fey,tina.fey@nalademo.com,Lucía Sánchez,24/10/2022,07/11/2022,Incapacidad,,Aprobado
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,24/10/2022,30/10/2022,Incapacidad,,Aprobado
+6,Alice Johnson,alice.johnson@nalademo.com,Diana Prado,01/11/2022,13/11/2022,Incapacidad,,Aprobado
+22,Quentin Tarantino,quentin.tarantino@nalademo.com,Diana Prado,06/11/2022,10/11/2022,Vacaciones,,Rechazado
+7,Mark Lopez,m.lopez@nalademo.com,CEO,07/11/2022,14/11/2022,Incapacidad,,Aprobado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,08/11/2022,11/11/2022,Incapacidad,,Rechazado
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,08/11/2022,12/11/2022,Incapacidad,,Aprobado
+17,Lucía Sánchez,l.sanchez@nalademo.com,CEO,12/11/2022,17/11/2022,Vacaciones,Problemas personales,Aprobado
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,14/11/2022,21/11/2022,Incapacidad,,Rechazado
+6,Alice Johnson,alice.johnson@nalademo.com,Diana Prado,17/11/2022,27/11/2022,Incapacidad,,Aprobado
+25,Tina Fey,tina.fey@nalademo.com,Lucía Sánchez,04/12/2022,08/12/2022,Vacaciones,Iré al doctor,Aprobado
+33,Bruce Willis,bruce.willis@nalademo.com,Mark Lopez,07/12/2022,08/12/2022,Vacaciones,Mudanza,Aprobado
+25,Tina Fey,tina.fey@nalademo.com,Lucía Sánchez,08/12/2022,13/12/2022,Vacaciones,Vacaciones en familia,Rechazado
+7,Mark Lopez,m.lopez@nalademo.com,CEO,08/12/2022,09/12/2022,Vacaciones,,Aprobado
+17,Lucía Sánchez,l.sanchez@nalademo.com,CEO,08/12/2022,21/12/2022,Vacaciones,Iré al doctor,Aprobado
+9,Diana Prince,diana.prince@nalademo.com,Lucía Sánchez,09/12/2022,15/12/2022,Vacaciones,,Rechazado
+11,Fiona Apple,fiona.apple@nalademo.com,Diana Prado,15/12/2022,26/12/2022,Vacaciones,,Aprobado
+15,Jack Black,jack.black@nalademo.com,Diana Prado,16/12/2022,26/12/2022,Incapacidad,,Aprobado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,17/12/2022,22/12/2022,Vacaciones,Descanso,Rechazado
+11,Fiona Apple,fiona.apple@nalademo.com,Diana Prado,18/12/2022,29/12/2022,Vacaciones,Vacaciones en familia,Aprobado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,23/12/2022,24/12/2022,Incapacidad,,Aprobado
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,25/12/2022,04/01/2023,Vacaciones,Problemas personales,Aprobado
+4,Susana Becerril,alcaldesamccaskill@nalademo.com,Lucía Sánchez,26/12/2022,05/01/2023,Vacaciones,,Rechazado
+5,Juan Perez,eddiecontracorriente@nalademo.com,Bruno Díaz,26/12/2022,03/01/2023,Vacaciones,Iré al doctor,Aprobado
+34,Catherine Zeta,catherine.zeta@nalademo.com,Mark Lopez,29/12/2022,12/01/2023,Vacaciones,Problemas personales,Aprobado
+8,Charlie Brown,charlie.brown@nalademo.com,Bruno Díaz,30/12/2022,04/01/2023,Vacaciones,Descanso,Rechazado
+30,Yara Shahidi,yara.shahidi@nalademo.com,Bruno Díaz,03/01/2023,04/01/2023,Vacaciones,Problemas personales,Rechazado
+15,Jack Black,jack.black@nalademo.com,Diana Prado,05/01/2023,18/01/2023,Vacaciones,Iré al doctor,Aprobado
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,06/01/2023,10/01/2023,Vacaciones,,Aprobado
+23,Rachel McAdams,rachel.mcadams@nalademo.com,Diana Prado,17/01/2023,27/01/2023,Vacaciones,,Aprobado
+24,Samuel Jackson,samuel.jackson@nalademo.com,Bruno Díaz,18/01/2023,18/01/2023,Incapacidad,Iré al doctor,Rechazado
+24,Samuel Jackson,samuel.jackson@nalademo.com,Bruno Díaz,18/01/2023,18/01/2023,Incapacidad,Iré al doctor,Rechazado
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,18/01/2023,24/01/2023,Incapacidad,,Rechazado
+22,Quentin Tarantino,quentin.tarantino@nalademo.com,Diana Prado,19/01/2023,25/01/2023,Vacaciones,Mudanza,Aprobado
+14,Ian McKellen,ian.mckellen@nalademo.com,Mark Lopez,21/01/2023,22/01/2023,Incapacidad,,Aprobado
+20,Oscar Isaac,oscar.isaac@nalademo.com,Mark Lopez,26/01/2023,31/01/2023,Vacaciones,,Aprobado
+30,Yara Shahidi,yara.shahidi@nalademo.com,Bruno Díaz,28/01/2023,30/01/2023,Incapacidad,,Aprobado
+17,Lucía Sánchez,l.sanchez@nalademo.com,CEO,30/01/2023,13/02/2023,Vacaciones,Problemas personales,Rechazado
+23,Rachel McAdams,rachel.mcadams@nalademo.com,Diana Prado,31/01/2023,01/02/2023,Incapacidad,Iré al doctor,Rechazado
+12,George Clooney,george.clooney@nalademo.com,Mark Lopez,01/02/2023,10/02/2023,Vacaciones,Mudanza,Aprobado
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,08/02/2023,11/02/2023,Vacaciones,Vacaciones en familia,Aprobado
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,15/02/2023,01/03/2023,Incapacidad,,Rechazado
+15,Jack Black,jack.black@nalademo.com,Diana Prado,17/02/2023,24/02/2023,Incapacidad,,Aprobado
+1,Gonzalo Dapoz,harveydent@nalademo.com,Mark Lopez,19/02/2023,26/02/2023,Vacaciones,,Rechazado
+5,Juan Perez,eddiecontracorriente@nalademo.com,Bruno Díaz,20/02/2023,24/02/2023,Vacaciones,Problemas personales,Aprobado
+34,Catherine Zeta,catherine.zeta@nalademo.com,Mark Lopez,22/02/2023,02/03/2023,Vacaciones,,Aprobado
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,26/02/2023,28/02/2023,Vacaciones,Mudanza,Rechazado
+14,Ian McKellen,ian.mckellen@nalademo.com,Mark Lopez,06/03/2023,20/03/2023,Vacaciones,,Aprobado
+30,Yara Shahidi,yara.shahidi@nalademo.com,Bruno Díaz,06/03/2023,11/03/2023,Vacaciones,Viaje de estudios,Aprobado
+23,Rachel McAdams,rachel.mcadams@nalademo.com,Diana Prado,08/03/2023,08/03/2023,Incapacidad,Iré al doctor,Aprobado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,09/03/2023,16/03/2023,Vacaciones,Descanso,Aprobado
+26,Uma Thurman,uma.thurman@nalademo.com,Diana Prado,12/03/2023,22/03/2023,Vacaciones,Mudanza,Rechazado
+14,Ian McKellen,ian.mckellen@nalademo.com,Mark Lopez,15/03/2023,19/03/2023,Vacaciones,Mudanza,Rechazado
+33,Bruce Willis,bruce.willis@nalademo.com,Mark Lopez,16/03/2023,29/03/2023,Vacaciones,Viaje de estudios,Rechazado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,17/03/2023,21/03/2023,Incapacidad,,Rechazado
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,17/03/2023,19/03/2023,Vacaciones,,Rechazado
+18,Maggie Smith,maggie.smith@nalademo.com,Mark Lopez,17/03/2023,20/03/2023,Vacaciones,Problemas personales,Aprobado
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,20/03/2023,27/03/2023,Incapacidad,,Aprobado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,29/03/2023,30/03/2023,Vacaciones,Problemas personales,Aprobado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,31/03/2023,01/04/2023,Incapacidad,Cuidado de un familiar,Aprobado
+4,Susana Becerril,alcaldesamccaskill@nalademo.com,Lucía Sánchez,02/04/2023,10/04/2023,Vacaciones,Viaje de estudios,Aprobado
+7,Mark Lopez,m.lopez@nalademo.com,CEO,03/04/2023,15/04/2023,Vacaciones,Descanso,Aprobado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,03/04/2023,08/04/2023,Vacaciones,,Aprobado
+19,Diana Prado,dianita@nalademo.com,CEO,04/04/2023,17/04/2023,Vacaciones,,Aprobado
+25,Tina Fey,tina.fey@nalademo.com,Lucía Sánchez,09/04/2023,18/04/2023,Vacaciones,,Aprobado
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,11/04/2023,16/04/2023,Incapacidad,Cuidado de un familiar,Aprobado
+30,Yara Shahidi,yara.shahidi@nalademo.com,Bruno Díaz,13/04/2023,17/04/2023,Vacaciones,Mudanza,Aprobado
+12,George Clooney,george.clooney@nalademo.com,Mark Lopez,13/04/2023,19/04/2023,Vacaciones,Viaje de estudios,Rechazado
+19,Diana Prado,dianita@nalademo.com,CEO,19/04/2023,28/04/2023,Incapacidad,,Rechazado
+25,Tina Fey,tina.fey@nalademo.com,Lucía Sánchez,23/04/2023,25/04/2023,Vacaciones,Viaje de estudios,Aprobado
+1,Gonzalo Dapoz,harveydent@nalademo.com,Mark Lopez,25/04/2023,30/04/2023,Vacaciones,Viaje de estudios,Aprobado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,29/04/2023,03/05/2023,Incapacidad,,Aprobado
+24,Samuel Jackson,samuel.jackson@nalademo.com,Bruno Díaz,29/04/2023,10/05/2023,Vacaciones,Mudanza,Aprobado
+18,Maggie Smith,maggie.smith@nalademo.com,Mark Lopez,02/05/2023,16/05/2023,Vacaciones,Mudanza,Aprobado
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,04/05/2023,11/05/2023,Vacaciones,Viaje de estudios,Rechazado
+12,George Clooney,george.clooney@nalademo.com,Mark Lopez,08/05/2023,08/05/2023,Incapacidad,Iré al doctor,Aprobado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,09/05/2023,21/05/2023,Vacaciones,Vacaciones en familia,Rechazado
+26,Uma Thurman,uma.thurman@nalademo.com,Diana Prado,10/05/2023,18/05/2023,Incapacidad,,Aprobado
+25,Tina Fey,tina.fey@nalademo.com,Lucía Sánchez,12/05/2023,26/05/2023,Vacaciones,Viaje de estudios,Aprobado
+33,Bruce Willis,bruce.willis@nalademo.com,Mark Lopez,13/05/2023,14/05/2023,Vacaciones,,Aprobado
+32,Amber Heard,amber.heard@nalademo.com,Bruno Díaz,16/05/2023,28/05/2023,Vacaciones,Vacaciones en familia,Rechazado
+23,Rachel McAdams,rachel.mcadams@nalademo.com,Diana Prado,17/05/2023,31/05/2023,Vacaciones,,Rechazado
+24,Samuel Jackson,samuel.jackson@nalademo.com,Bruno Díaz,18/05/2023,29/05/2023,Vacaciones,Descanso,Aprobado
+9,Diana Prince,diana.prince@nalademo.com,Lucía Sánchez,19/05/2023,02/06/2023,Vacaciones,,Rechazado
+23,Rachel McAdams,rachel.mcadams@nalademo.com,Diana Prado,28/05/2023,30/05/2023,Vacaciones,,Aprobado
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,29/05/2023,03/06/2023,Incapacidad,Iré al doctor,Rechazado
+28,Wendy Williams,wendy.williams@nalademo.com,Mark Lopez,10/06/2023,22/06/2023,Vacaciones,Problemas personales,Aprobado
+12,George Clooney,george.clooney@nalademo.com,Mark Lopez,12/06/2023,18/06/2023,Vacaciones,Iré al doctor,Aprobado
+26,Uma Thurman,uma.thurman@nalademo.com,Diana Prado,20/06/2023,30/06/2023,Incapacidad,,Aprobado
+9,Diana Prince,diana.prince@nalademo.com,Lucía Sánchez,22/06/2023,30/06/2023,Vacaciones,,Rechazado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,22/06/2023,03/07/2023,Incapacidad,,Aprobado
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,24/06/2023,25/06/2023,Vacaciones,,Aprobado
+14,Ian McKellen,ian.mckellen@nalademo.com,Mark Lopez,30/06/2023,03/07/2023,Vacaciones,Mudanza,Aprobado
+6,Alice Johnson,alice.johnson@nalademo.com,Diana Prado,14/07/2023,16/07/2023,Incapacidad,,Aprobado
+17,Lucía Sánchez,l.sanchez@nalademo.com,CEO,17/07/2023,20/07/2023,Incapacidad,,Aprobado
+32,Amber Heard,amber.heard@nalademo.com,Bruno Díaz,18/07/2023,30/07/2023,Vacaciones,,Aprobado
+31,Bruno Díaz,nosehabla@nalademo.com,CEO,19/07/2023,21/07/2023,Vacaciones,Vacaciones en familia,Aprobado
+17,Lucía Sánchez,l.sanchez@nalademo.com,CEO,20/07/2023,24/07/2023,Vacaciones,Viaje de estudios,Aprobado
+31,Bruno Díaz,nosehabla@nalademo.com,CEO,26/07/2023,29/07/2023,Vacaciones,Cuidado de un familiar,Rechazado
+15,Jack Black,jack.black@nalademo.com,Diana Prado,28/07/2023,01/08/2023,Incapacidad,,Rechazado
+33,Bruce Willis,bruce.willis@nalademo.com,Mark Lopez,05/08/2023,16/08/2023,Incapacidad,Problemas personales,Aprobado
+19,Diana Prado,dianita@nalademo.com,CEO,06/08/2023,08/08/2023,Incapacidad,,Aprobado
+24,Samuel Jackson,samuel.jackson@nalademo.com,Bruno Díaz,09/08/2023,18/08/2023,Vacaciones,,Rechazado
+18,Maggie Smith,maggie.smith@nalademo.com,Mark Lopez,13/08/2023,25/08/2023,Vacaciones,Problemas personales,Aprobado
+5,Juan Perez,eddiecontracorriente@nalademo.com,Bruno Díaz,18/08/2023,20/08/2023,Vacaciones,Iré al doctor,Aprobado
+22,Quentin Tarantino,quentin.tarantino@nalademo.com,Diana Prado,21/08/2023,31/08/2023,Vacaciones,,Aprobado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,22/08/2023,31/08/2023,Incapacidad,Problemas personales,Aprobado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,24/08/2023,28/08/2023,Vacaciones,Viaje de estudios,Aprobado
+18,Maggie Smith,maggie.smith@nalademo.com,Mark Lopez,27/08/2023,03/09/2023,Incapacidad,Problemas personales,Rechazado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,30/08/2023,05/09/2023,Incapacidad,,Rechazado
+31,Bruno Díaz,nosehabla@nalademo.com,CEO,13/09/2023,22/09/2023,Vacaciones,,Aprobado
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,16/09/2023,19/09/2023,Incapacidad,,Aprobado
+20,Oscar Isaac,oscar.isaac@nalademo.com,Mark Lopez,19/09/2023,03/10/2023,Incapacidad,,Aprobado
+24,Samuel Jackson,samuel.jackson@nalademo.com,Bruno Díaz,20/09/2023,25/09/2023,Vacaciones,Descanso,Rechazado
+33,Bruce Willis,bruce.willis@nalademo.com,Mark Lopez,22/09/2023,05/10/2023,Incapacidad,,Aprobado
+20,Oscar Isaac,oscar.isaac@nalademo.com,Mark Lopez,26/09/2023,29/09/2023,Incapacidad,,Aprobado
+20,Oscar Isaac,oscar.isaac@nalademo.com,Mark Lopez,26/09/2023,02/10/2023,Incapacidad,,Aprobado
+8,Charlie Brown,charlie.brown@nalademo.com,Bruno Díaz,27/09/2023,04/10/2023,Vacaciones,Cuidado de un familiar,Aprobado
+32,Amber Heard,amber.heard@nalademo.com,Bruno Díaz,28/09/2023,30/09/2023,Vacaciones,,Aprobado
+9,Diana Prince,diana.prince@nalademo.com,Lucía Sánchez,05/10/2023,06/10/2023,Incapacidad,,Rechazado
+6,Alice Johnson,alice.johnson@nalademo.com,Diana Prado,12/10/2023,25/10/2023,Vacaciones,Mudanza,Rechazado
+33,Bruce Willis,bruce.willis@nalademo.com,Mark Lopez,16/10/2023,30/10/2023,Incapacidad,,Aprobado
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,16/10/2023,22/10/2023,Incapacidad,Problemas personales,Aprobado
+4,Susana Becerril,alcaldesamccaskill@nalademo.com,Lucía Sánchez,22/10/2023,26/10/2023,Incapacidad,,Aprobado
+24,Samuel Jackson,samuel.jackson@nalademo.com,Bruno Díaz,22/10/2023,01/11/2023,Incapacidad,,Rechazado
+14,Ian McKellen,ian.mckellen@nalademo.com,Mark Lopez,07/11/2023,08/11/2023,Vacaciones,,Rechazado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,07/11/2023,14/11/2023,Vacaciones,Viaje de estudios,Aprobado
+4,Susana Becerril,alcaldesamccaskill@nalademo.com,Lucía Sánchez,12/11/2023,21/11/2023,Vacaciones,Viaje de estudios,Rechazado
+8,Charlie Brown,charlie.brown@nalademo.com,Bruno Díaz,13/11/2023,14/11/2023,Vacaciones,Mudanza,Aprobado
+30,Yara Shahidi,yara.shahidi@nalademo.com,Bruno Díaz,15/11/2023,29/11/2023,Incapacidad,,Aprobado
+31,Bruno Díaz,nosehabla@nalademo.com,CEO,17/11/2023,23/11/2023,Vacaciones,Mudanza,Rechazado
+24,Samuel Jackson,samuel.jackson@nalademo.com,Bruno Díaz,27/11/2023,05/12/2023,Vacaciones,Viaje de estudios,Aprobado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,29/11/2023,10/12/2023,Incapacidad,,Rechazado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,30/11/2023,03/12/2023,Vacaciones,Cuidado de un familiar,Aprobado
+27,Victor Hugo,victor.hugo@nalademo.com,Lucía Sánchez,01/12/2023,09/12/2023,Vacaciones,Cuidado de un familiar,Aprobado
+5,Juan Perez,eddiecontracorriente@nalademo.com,Bruno Díaz,03/12/2023,09/12/2023,Vacaciones,,Aprobado
+16,Katherine Heigl,katherine.heigl@nalademo.com,Lucía Sánchez,05/12/2023,18/12/2023,Incapacidad,,Aprobado
+5,Juan Perez,eddiecontracorriente@nalademo.com,Bruno Díaz,09/12/2023,14/12/2023,Vacaciones,Descanso,Rechazado
+26,Uma Thurman,uma.thurman@nalademo.com,Diana Prado,09/12/2023,18/12/2023,Incapacidad,,Rechazado
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,15/12/2023,27/12/2023,Vacaciones,,Aprobado
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,15/12/2023,18/12/2023,Vacaciones,,Aprobado
+6,Alice Johnson,alice.johnson@nalademo.com,Diana Prado,19/12/2023,27/12/2023,Incapacidad,,Aprobado
+11,Fiona Apple,fiona.apple@nalademo.com,Diana Prado,28/12/2023,31/12/2023,Vacaciones,Problemas personales,Aprobado
+2,Linda Londres,dr.mcscrubs@nalademo.com,Lucía Sánchez,09/01/2024,15/01/2024,Vacaciones,Asunto familiar,Aprobado
+8,Charlie Brown,charlie.brown@nalademo.com,Bruno Díaz,12/01/2024,25/01/2024,Vacaciones,Trámite importante,Aprobado
+15,Jack Black,jack.black@nalademo.com,Diana Prado,15/01/2024,17/01/2024,Vacaciones,Personal,Aprobado
+22,Quentin Tarantino,quentin.tarantino@nalademo.com,Diana Prado,18/01/2024,27/01/2024,Vacaciones,Personal,Rechazado
+23,Rachel McAdams,rachel.mcadams@nalademo.com,Diana Prado,26/01/2024,04/02/2024,Vacaciones,Viaje de estudios,Rechazado
+4,Susana Becerril,alcaldesamccaskill@nalademo.com,Lucía Sánchez,01/02/2024,03/02/2024,Vacaciones,Trámite importante,Rechazado
+15,Jack Black,jack.black@nalademo.com,Diana Prado,05/02/2024,08/02/2024,Vacaciones,,Aprobado
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,13/02/2024,16/02/2024,Vacaciones,Personal,Rechazado
+34,Catherine Zeta,catherine.zeta@nalademo.com,Mark Lopez,14/02/2024,28/02/2024,Vacaciones,,Rechazado
+6,Alice Johnson,alice.johnson@nalademo.com,Diana Prado,15/02/2024,29/02/2024,Vacaciones,Descanso,Aprobado
+5,Juan Perez,eddiecontracorriente@nalademo.com,Bruno Díaz,17/02/2024,02/03/2024,Vacaciones,Descanso,Aprobado
+22,Quentin Tarantino,quentin.tarantino@nalademo.com,Diana Prado,21/02/2024,27/02/2024,Vacaciones,Asunto familiar,Rechazado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,01/03/2024,13/03/2024,Vacaciones,Descanso,Rechazado
+32,Amber Heard,amber.heard@nalademo.com,Bruno Díaz,06/03/2024,15/03/2024,Vacaciones,Capacitación,Aprobado
+28,Wendy Williams,wendy.williams@nalademo.com,Mark Lopez,08/03/2024,21/03/2024,Vacaciones,,Aprobado
+8,Charlie Brown,charlie.brown@nalademo.com,Bruno Díaz,20/03/2024,03/04/2024,Vacaciones,,Rechazado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,20/03/2024,29/03/2024,Vacaciones,,Rechazado
+33,Bruce Willis,bruce.willis@nalademo.com,Mark Lopez,24/03/2024,26/03/2024,Vacaciones,Iré al doctor,Pendiente
+26,Uma Thurman,uma.thurman@nalademo.com,Diana Prado,24/03/2024,26/03/2024,Vacaciones,Iré al doctor,Pendiente
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,28/03/2024,09/04/2024,Vacaciones,Viaje de estudios,Aprobado
+18,Maggie Smith,maggie.smith@nalademo.com,Mark Lopez,04/04/2024,10/04/2024,Vacaciones,Descanso,Rechazado
+11,Fiona Apple,fiona.apple@nalademo.com,Diana Prado,10/04/2024,12/04/2024,Vacaciones,Descanso,Rechazado
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,20/04/2024,23/04/2024,Vacaciones,,Pendiente
+7,Mark Lopez,m.lopez@nalademo.com,CEO,26/04/2024,27/04/2024,Incapacidad,,Rechazado
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,01/05/2024,09/05/2024,Vacaciones,,Aprobado
+20,Oscar Isaac,oscar.isaac@nalademo.com,Mark Lopez,05/05/2024,18/05/2024,Vacaciones,Trámite importante,Aprobado
+30,Yara Shahidi,yara.shahidi@nalademo.com,Bruno Díaz,07/05/2024,19/05/2024,Vacaciones,Mudanza,Aprobado
+33,Bruce Willis,bruce.willis@nalademo.com,Mark Lopez,09/05/2024,20/05/2024,Vacaciones,Iré al doctor,Rechazado
+26,Uma Thurman,uma.thurman@nalademo.com,Diana Prado,11/05/2024,12/05/2024,Vacaciones,Personal,Pendiente
+25,Tina Fey,tina.fey@nalademo.com,Lucía Sánchez,23/05/2024,27/05/2024,Vacaciones,Capacitación,Pendiente
+21,Paula Abdul,paula.abdul@nalademo.com,Bruno Díaz,05/06/2024,17/06/2024,Vacaciones,Personal,Pendiente
+24,Samuel Jackson,samuel.jackson@nalademo.com,Bruno Díaz,07/06/2024,08/06/2024,Vacaciones,Mudanza,Pendiente
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,17/06/2024,27/06/2024,Vacaciones,Capacitación,Rechazado
+30,Yara Shahidi,yara.shahidi@nalademo.com,Bruno Díaz,01/07/2024,04/07/2024,Incapacidad,,Pendiente
+16,Katherine Heigl,katherine.heigl@nalademo.com,Lucía Sánchez,01/07/2024,03/07/2024,Vacaciones,Mudanza,Pendiente
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,02/07/2024,07/07/2024,Incapacidad,Iré al doctor,Rechazado
+29,Xander Cage,xander.cage@nalademo.com,Lucía Sánchez,10/07/2024,16/07/2024,Vacaciones,Trámite importante,Pendiente
+13,Helen Hunt,helen.hunt@nalademo.com,Lucía Sánchez,14/07/2024,27/07/2024,Vacaciones,Trámite importante,Pendiente
+31,Bruno Díaz,nosehabla@nalademo.com,CEO,18/07/2024,19/07/2024,Vacaciones,Trámite importante,Rechazado
+6,Alice Johnson,alice.johnson@nalademo.com,Diana Prado,23/07/2024,25/07/2024,Vacaciones,Viaje de estudios,Pendiente
+23,Rachel McAdams,rachel.mcadams@nalademo.com,Diana Prado,27/07/2024,30/07/2024,Vacaciones,Trámite importante,Pendiente
+28,Wendy Williams,wendy.williams@nalademo.com,Mark Lopez,27/07/2024,01/08/2024,Vacaciones,Capacitación,Rechazado
+1,Gonzalo Dapoz,harveydent@nalademo.com,Mark Lopez,01/08/2024,06/08/2024,Vacaciones,Personal,Pendiente
+12,George Clooney,george.clooney@nalademo.com,Mark Lopez,13/08/2024,16/08/2024,Vacaciones,Capacitación,Pendiente
+19,Diana Prado,dianita@nalademo.com,CEO,22/08/2024,28/08/2024,Vacaciones,Viaje de estudios,Pendiente
+9,Diana Prince,diana.prince@nalademo.com,Lucía Sánchez,23/08/2024,25/08/2024,Vacaciones,Mudanza,Pendiente
+11,Fiona Apple,fiona.apple@nalademo.com,Diana Prado,26/08/2024,03/09/2024,Incapacidad,Iré al doctor,Rechazado
+17,Lucía Sánchez,l.sanchez@nalademo.com,CEO,28/08/2024,05/09/2024,Vacaciones,,Aprobado
+11,Fiona Apple,fiona.apple@nalademo.com,Diana Prado,03/09/2024,17/09/2024,Vacaciones,Capacitación,Pendiente
+32,Amber Heard,amber.heard@nalademo.com,Bruno Díaz,08/09/2024,16/09/2024,Vacaciones,,Pendiente
+7,Mark Lopez,m.lopez@nalademo.com,CEO,12/09/2024,14/09/2024,Vacaciones,,Pendiente
+27,Victor Hugo,victor.hugo@nalademo.com,Lucía Sánchez,12/09/2024,22/09/2024,Vacaciones,Capacitación,Pendiente
+14,Ian McKellen,ian.mckellen@nalademo.com,Mark Lopez,13/09/2024,17/09/2024,Incapacidad,Iré al doctor,Rechazado
+20,Oscar Isaac,oscar.isaac@nalademo.com,Mark Lopez,13/09/2024,23/09/2024,Incapacidad,Iré al doctor,Rechazado
+27,Victor Hugo,victor.hugo@nalademo.com,Lucía Sánchez,17/09/2024,29/09/2024,Vacaciones,Capacitación,Pendiente
+12,George Clooney,george.clooney@nalademo.com,Mark Lopez,18/09/2024,23/09/2024,Vacaciones,,Pendiente
+34,Catherine Zeta,catherine.zeta@nalademo.com,Mark Lopez,18/09/2024,19/09/2024,Vacaciones,Personal,Pendiente
+10,Edward Norton,edward.norton@nalademo.com,Bruno Díaz,22/09/2024,26/09/2024,Vacaciones,Asunto familiar,Rechazado
+16,Katherine Heigl,katherine.heigl@nalademo.com,Lucía Sánchez,01/10/2024,11/10/2024,Vacaciones,Mudanza,Pendiente
+18,Maggie Smith,maggie.smith@nalademo.com,Mark Lopez,22/10/2024,26/10/2024,Vacaciones,Descanso,Pendiente
+8,Charlie Brown,charlie.brown@nalademo.com,Bruno Díaz,12/11/2024,14/11/2024,Vacaciones,Viaje de estudios,Pendiente
+20,Oscar Isaac,oscar.isaac@nalademo.com,Mark Lopez,14/11/2024,25/11/2024,Vacaciones,Iré al doctor,Rechazado
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,24/11/2024,26/11/2024,Vacaciones,Descanso,Pendiente
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,28/11/2024,02/12/2024,Vacaciones,Asunto familiar,Aprobado
+9,Diana Prince,diana.prince@nalademo.com,Lucía Sánchez,04/12/2024,16/12/2024,Vacaciones,,Pendiente
+35,David Beckham,david.beckham@nalademo.com,Lucía Sánchez,10/12/2024,13/12/2024,Vacaciones,Descanso,Pendiente
+6,Alice Johnson,alice.johnson@nalademo.com,Diana Prado,10/12/2024,19/12/2024,Vacaciones,Asunto familiar,Rechazado
+3,Cristina Lara,generalsweetmayhem@nalademo.com,Diana Prado,27/12/2024,06/01/2025,Vacaciones,,Pendiente
